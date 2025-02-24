@@ -1,0 +1,150 @@
+[33mcommit 9d0cc7a0d1e5f60418bb1d253dd6123891e4d244[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: b51561d ee038c8
+Author: xjackyz <xjackyz@gmail.com>
+Date:   Sun Feb 23 03:52:43 2025 +0800
+
+    Resolve merge conflict in README.md
+
+[33mcommit b51561dc613bd99ec0eda96963ec716d99a711f8[m
+Author: xjackyz <xjackyz@gmail.com>
+Date:   Sun Feb 23 03:43:21 2025 +0800
+
+    Initial commit
+
+ .env.example                                              |    22 [32m+[m
+ .gitignore                                                |    48 [32m+[m
+ Dockerfile                                                |    38 [32m+[m
+ README.md                                                 |   192 [32m++[m
+ config/config.py                                          |   342 [32m+++[m
+ config/config.yaml                                        | 10328 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ config/data_config.py                                     |    47 [32m+[m
+ config/model_config.py                                    |    41 [32m+[m
+ config/system_config.py                                   |    68 [32m+[m
+ config/training_config.py                                 |    46 [32m+[m
+ docker/dev/Dockerfile                                     |    28 [32m+[m
+ docker/prod/Dockerfile                                    |    31 [32m+[m
+ docs/README.md                                            |    28 [32m+[m
+ docs/deployment.md                                        |   258 [32m++[m
+ install-release.sh                                        |   637 [32m+++++[m
+ logging.conf                                              |    34 [32m+[m
+ main.py                                                   |    49 [32m+[m
+ models/llava-sbs/config.json                              |    75 [32m+[m
+ models/llava-sbs/generation_config.json                   |     8 [32m+[m
+ models/llava-sbs/model-00001-of-00003.safetensors         |   Bin [31m0[m -> [32m4938985248[m bytes
+ models/llava-sbs/model-00002-of-00003.safetensors         |   Bin [31m0[m -> [32m4947390768[m bytes
+ models/llava-sbs/model-00003-of-00003.safetensors         |   Bin [31m0[m -> [32m3590488736[m bytes
+ models/llava-sbs/model.safetensors.index.json             |   298 [32m+++[m
+ models/llava-sbs/tokenizer.model                          |   Bin [31m0[m -> [32m499723[m bytes
+ models/llava-sbs/tokenizer_config.json                    |    42 [32m+[m
+ notepad.md                                                |   286 [32m++[m
+ requirements.txt                                          |    40 [32m+[m
+ screenshots/kline_charts/chart_0.png                      |   Bin [31m0[m -> [32m25149[m bytes
+ screenshots/kline_charts/chart_1.png                      |   Bin [31m0[m -> [32m25825[m bytes
+ screenshots/kline_charts/chart_10.png                     |   Bin [31m0[m -> [32m32562[m bytes
+ screenshots/kline_charts/chart_11.png                     |   Bin [31m0[m -> [32m32889[m bytes
+ screenshots/kline_charts/chart_12.png                     |   Bin [31m0[m -> [32m32696[m bytes
+ screenshots/kline_charts/chart_13.png                     |   Bin [31m0[m -> [32m32745[m bytes
+ screenshots/kline_charts/chart_14.png                     |   Bin [31m0[m -> [32m38189[m bytes
+ screenshots/kline_charts/chart_15.png                     |   Bin [31m0[m -> [32m38118[m bytes
+ screenshots/kline_charts/chart_2.png                      |   Bin [31m0[m -> [32m26070[m bytes
+ screenshots/kline_charts/chart_3.png                      |   Bin [31m0[m -> [32m26081[m bytes
+ screenshots/kline_charts/chart_4.png                      |   Bin [31m0[m -> [32m25674[m bytes
+ screenshots/kline_charts/chart_5.png                      |   Bin [31m0[m -> [32m26268[m bytes
+ screenshots/kline_charts/chart_6.png                      |   Bin [31m0[m -> [32m25434[m bytes
+ screenshots/kline_charts/chart_7.png                      |   Bin [31m0[m -> [32m24926[m bytes
+ screenshots/kline_charts/chart_8.png                      |   Bin [31m0[m -> [32m32222[m bytes
+ screenshots/kline_charts/chart_9.png                      |   Bin [31m0[m -> [32m32574[m bytes
+ scripts/check_system.py                                   |    76 [32m+[m
+ scripts/download_clash.py                                 |    45 [32m+[m
+ scripts/download_config.py                                |    30 [32m+[m
+ scripts/evaluate_model.py                                 |   151 [32m++[m
+ scripts/init_git.py                                       |   131 [32m+[m
+ scripts/init_workspace.py                                 |    40 [32m+[m
+ scripts/install_v2ray.py                                  |    74 [32m+[m
+ scripts/prepare_data.py                                   |   136 [32m+[m
+ scripts/proxy_server.py                                   |    94 [32m+[m
+ scripts/run_backtest.py                                   |    55 [32m+[m
+ scripts/test_discord.py                                   |    44 [32m+[m
+ scripts/train_full_year.py                                |   371 [32m+++[m
+ scripts/train_rl.py                                       |   316 [32m+++[m
+ scripts/train_self_supervised.py                          |   132 [32m+[m
+ setup.py                                                  |    27 [32m+[m
+ src/backtest/backtester.py                                |   590 [32m+++++[m
+ src/backtest/performance.py                               |   419 [32m+++[m
+ src/backtest/portfolio.py                                 |   230 [32m++[m
+ src/config/config.py                                      |   199 [32m++[m
+ src/config/monitor_config.py                              |    89 [32m+[m
+ src/config/system_config.py                               |    72 [32m+[m
+ src/main.py                                               |   341 [32m+++[m
+ src/model/analyzer.py                                     |   182 [32m++[m
+ src/model/llava_analyzer.py                               |   441 [32m++++[m
+ src/model/model_optimizer.py                              |   100 [32m+[m
+ src/monitor/__init__.py                                   |     0
+ src/monitor/discord_notifier.py                           |   138 [32m+[m
+ src/monitor/performance_tracker.py                        |   123 [32m+[m
+ src/monitor/system_monitor.py                             |   295 [32m+++[m
+ src/notification/discord_notifier.py                      |   281 [32m++[m
+ src/preprocessing/data_processor.py                       |   317 [32m+++[m
+ src/preprocessing/image_processor.py                      |   229 [32m++[m
+ src/scheduler/task_scheduler.py                           |   178 [32m++[m
+ src/screenshot/capture.py                                 |   219 [32m++[m
+ src/self_supervised/adaptive/adaptive_learner.py          |   285 [32m++[m
+ src/self_supervised/data_generator/sequence_generator.py  |   521 [32m++++[m
+ src/self_supervised/metrics/sequence_metrics.py           |   264 [32m++[m
+ src/self_supervised/model/sequence_model.py               |   335 [32m+++[m
+ src/self_supervised/reinforcement/ppo_agent.py            |   264 [32m++[m
+ src/self_supervised/reinforcement/trading_env.py          |   252 [32m++[m
+ src/self_supervised/reporting/report_generator.py         |   333 [32m+++[m
+ src/self_supervised/task_designer/task_generator.py       |   327 [32m+++[m
+ src/self_supervised/trainer/self_supervised_trainer.py    |   513 [32m++++[m
+ src/self_supervised/utils/output_formatter.py             |   161 [32m++[m
+ src/self_supervised/validator/performance_validator.py    |   576 [32m+++++[m
+ src/self_supervised/validator/sequence_evaluator.py       |   341 [32m+++[m
+ src/self_supervised/validator/sequence_validator.py       |   522 [32m++++[m
+ src/self_supervised/visualization/sequence_visualizer.py  |   584 [32m+++++[m
+ src/self_supervised/visualization/visualization_system.py |   412 [32m+++[m
+ src/self_supervised_learning/self_supervised_learning.py  |   325 [32m+++[m
+ src/signal/signal_generator.py                            |   756 [32m++++++[m
+ src/tests/error_analyzer.py                               |   292 [32m+++[m
+ src/tests/run_tests.py                                    |   208 [32m++[m
+ src/tests/test_collector.py                               |   172 [32m++[m
+ src/tests/test_runner.py                                  |   146 [32m++[m
+ src/utils/data_loader.py                                  |   292 [32m+++[m
+ src/utils/data_processor.py                               |   270 [32m++[m
+ src/utils/data_validator.py                               |   360 [32m+++[m
+ src/utils/error_handler.py                                |     1 [32m+[m
+ src/utils/logger.py                                       |    79 [32m+[m
+ src/utils/memory_monitor.py                               |   217 [32m++[m
+ src/utils/system_monitor.py                               |   333 [32m+++[m
+ src/utils/system_validator.py                             |   267 [32m++[m
+ src/utils/task_queue.py                                   |   164 [32m++[m
+ src/validator/sequence_validator.py                       |   189 [32m++[m
+ src/validator/trade_validator.py                          |   341 [32m+++[m
+ test_data/BTCUSDT_1h.csv                                  |   722 [32m++++++[m
+ tests/e2e/test_system_e2e.py                              |   204 [32m++[m
+ tests/integration/test_system_integration.py              |   186 [32m++[m
+ tests/performance/test_system_performance.py              |   201 [32m++[m
+ tests/run_tests.py                                        |   102 [32m+[m
+ tests/test_data/test_model.pt                             |   Bin [31m0[m -> [32m4039590[m bytes
+ tests/unit/test_backtester.py                             |   219 [32m++[m
+ tests/unit/test_data_collector.py                         |   195 [32m++[m
+ tests/unit/test_data_loader.py                            |    22 [32m+[m
+ tests/unit/test_main.py                                   |   240 [32m++[m
+ tests/unit/test_model_analyzer.py                         |   206 [32m++[m
+ tests/unit/test_monitor.py                                |   230 [32m++[m
+ tests/unit/test_preprocessing.py                          |   109 [32m+[m
+ tests/unit/test_signal_generator.py                       |   171 [32m++[m
+ tests/unit/test_system_monitor.py                         |   173 [32m++[m
+ training.pid                                              |     1 [32m+[m
+ validation_results/validation_report_20250222_001139.txt  |     3 [32m+[m
+ 126 files changed, 32237 insertions(+)
+
+[33mcommit ee038c820005150f76a1319ca0ca24ea84edd5e0[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: xjackyz <150401691+xjackyz@users.noreply.github.com>
+Date:   Sun Feb 23 03:19:48 2025 +0800
+
+    Initial commit
+
+ LICENSE   | 21 [32m+++++++++++++++++++++[m
+ README.md |  1 [32m+[m
+ 2 files changed, 22 insertions(+)

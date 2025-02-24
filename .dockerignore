@@ -1,0 +1,112 @@
+# Git
+.git
+.gitignore
+.gitattributes
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 虚拟环境
+venv/
+ENV/
+.env
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+.project
+.classpath
+.settings/
+
+# 日志和临时文件
+logs/
+*.log
+temp/
+.tmp/
+
+# 数据和模型文件（通过volume挂载）
+models/
+data/
+screenshots/
+
+# 缓存
+.cache/
+.npm/
+.yarn/
+
+# 其他
+*.bak
+*.tmp
+*.temp
+node_modules/
+.env*
+!.env.example
+
+# Docker
+.docker/
+docker-compose*.yml
+Dockerfile*
+.dockerignore
+
+# 额外的大型目录
+训练内容/
+flash-attention/
+docker_build/
+training_data/
+test_data/
+test_images/
+test_logs/
+test_models/
+validation_results/
+screenshots/
+temp_uploads/
+
+# 测试文件
+test_*.py
+*_test.py
+tests/
+
+# 日志文件
+*.log
+wget-log
+training.log
+training.pid
+
+# 临时文件
+temp/
+.tmp/
+*.gz
+
+# 模型文件
+**/models/llava-sbs/*.safetensors
+**/models/llava-sbs/
+.cache/models--*/
+docker_build/models/
+sbs_bot/models/ 

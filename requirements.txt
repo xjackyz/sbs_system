@@ -1,0 +1,33 @@
+# Discord和异步
+discord.py==2.3.2
+aiohttp==3.9.1
+asyncio==3.4.3
+
+# 机器学习和深度学习
+torch==2.1.2
+torchvision==0.16.2
+transformers==4.36.2
+onnx==1.15.0
+onnxruntime-gpu==1.20.1
+
+# 图像处理
+Pillow==10.2.0
+opencv-python==4.8.1.78
+
+# 数据处理
+numpy==1.24.3
+pandas==2.1.4
+
+# Web和API
+fastapi==0.109.0
+uvicorn==0.27.0
+requests==2.31.0
+
+# 监控和日志
+prometheus-client==0.19.0
+python-json-logger==2.0.7
+psutil==5.9.7
+
+# 配置和环境
+python-dotenv==1.0.0
+pyyaml==6.0.1 

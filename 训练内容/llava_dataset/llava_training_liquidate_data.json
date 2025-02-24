@@ -1,0 +1,1192 @@
+[
+    {
+        "id": "f624b657-9f7e-4f45-83d3-ca2a8f6664ec",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00000.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "2b3ead06-8587-4b16-be97-8b26140dfb80",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00001.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "4b7a7256-9362-46f0-8c92-8dfe55e3d41e",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00002.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "d04bd76d-e988-47e8-95bb-d86b459bb527",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00003.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "0bbe240d-4fbc-4b11-9a54-ad8a63d40670",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00004.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "3db80dd0-eed7-484b-9766-82de238e3c56",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00005.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "324dda35-31b8-41be-9651-eec73c007a63",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00006.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "804b69b4-642f-4f03-877f-48d107713871",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00007.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "60a85c30-9389-4feb-a72a-af8c0e9f3c24",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00008.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "9fac0a2a-24bd-4e34-92ac-780cdfad7bac",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00009.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "e7a45ff8-d577-479d-8b4b-60388087c16d",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00010.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "5bf70bd0-5944-4938-ba7b-6a938da8f106",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00011.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "a051d92b-1cbc-4331-b9cf-e7a406103575",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00012.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "99159c8b-ad43-4c72-b730-bb2b44af3013",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00013.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "f361eaf2-813d-4f34-ac63-a90c35aac9f7",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00014.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "05e254c6-6262-47f2-b326-249dba94691d",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00015.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "ddd47706-2c51-4633-bd54-7e19fe816e3d",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00016.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "a2687657-3df1-496e-935e-0828972eb962",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00017.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "d805cc40-274b-4548-be27-5d1a259e4930",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00018.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "dde397f3-c400-41b3-b22e-fb4f11ea6727",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00019.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "811267ed-0bd1-45dc-af2a-0d61f96d2bdd",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00020.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "992f673d-b040-415d-87eb-9185aa8dc1ee",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00021.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "62beb753-5c7b-4a9c-9a19-7d4aa5eacad5",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00022.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "d99deaea-4f46-4b31-8c52-8f4300edbbf9",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00023.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "9baf679f-4fe8-4038-920b-dedc4e0f6663",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00024.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "84fe7210-1edc-489b-8703-6d3db50b4b34",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00025.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "76838ef0-1181-456a-9649-748c3d08bc52",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00026.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "fea96c53-c903-4af8-a6c5-51d4e167535b",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00027.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "e4481d65-ac24-42bd-8af6-dfbb8c90229d",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00028.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "c846910a-aebb-4cce-b2f2-0c1a8079c734",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00029.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "a2a8c777-6b81-4143-b075-ba3a9d45ee42",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00030.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "72d5fc0f-c822-4297-b579-19f819cc201b",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00031.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "33ed5b2d-4f45-4865-b6f5-e8797344f347",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00032.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "414617b1-8f06-42fd-821e-31052e824ce6",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00033.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "024124c0-1279-4729-8510-cabaf993302f",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00034.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "ddb189d4-9738-4b36-b65c-8eb95c6b21d3",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00035.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "093f9d75-e56d-463f-b153-28e5b2f7ee8f",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00036.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "7f566be5-f829-4444-b454-d354e584cba5",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00037.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "8971eb3b-b416-4d12-84c6-16b48e97502f",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00038.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "1f42219e-847a-40c1-97f0-16d0c12f7ea8",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00039.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "9607dc00-aa23-4914-899c-4357223a34e3",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00040.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "6a9b880e-8217-4cc6-9534-ffa80352237d",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00041.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "1b528236-2207-44d1-ad51-42042c787a0a",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00042.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "14b217f9-2065-4e8e-93e7-571152e69dcc",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00043.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "b7634046-b786-4051-bcb7-5401f2b9d911",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00044.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "8714bb09-32fa-4ab4-b78e-05425c9b6205",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00045.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "3f49e8f9-a954-4f53-8353-982c52ec0d66",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00046.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "393657fc-3bb6-4484-b230-dce50b563294",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00047.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "e541640a-93ff-4005-87a2-31a1bd7319ea",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00048.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "be285841-4241-4e95-809f-e04aefed341e",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00049.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "4b7f89fe-dbc3-40ad-8364-465289ee76c0",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00050.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "40d7b875-d8b9-4381-b33b-156218c31a81",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00051.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "fbec59b3-9087-4513-9561-61ccecd5cda5",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00052.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "b8cff259-cb76-4d13-891e-67f3b0f55dae",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00053.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "70921fdd-b505-4561-97e6-aa121f3f7e34",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00054.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "4ceda250-88db-4394-8aa3-0dc0028589de",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00055.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "30a45cb1-27f7-40fa-9c53-aafda3ef1afe",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00056.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "ced9287a-99a3-4045-b867-6a6f115d59f3",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00057.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "52a2c897-83a9-4b19-ade9-3a18c4a2b12a",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00058.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "2de6923a-473c-4cb0-9ee7-0c3efef9f8d8",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00059.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "0dff63eb-9127-4d02-bbce-2bca28ad028d",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00060.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "0d739b56-8e30-4cf8-b230-3c64014c1816",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00061.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "a1204b49-8d6f-4550-a482-42a688e9ed1f",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00062.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "da67a68a-4a88-453a-9f10-5aba0420633f",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00063.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "9f3fd9f7-bbe7-45a6-80c0-edb72e792dc8",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00064.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "e8e15b2a-7ba8-4853-9ad5-15a5f4d314b5",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00065.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "94fde4a8-ed0a-46f2-9f29-5a45f4717fe6",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00066.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "05195967-e12e-4acb-96e0-3d565d91346f",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00067.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "93f956f1-4a22-4f3e-ae58-1245fb19e63b",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00068.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "abba08f5-f65b-42fa-9506-075ee33fcf48",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00069.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "05c53554-6e40-4a77-a56c-91086d7d871f",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00070.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "03701b1f-c19e-4b50-ab63-49b8a3ebcec7",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00071.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "fd530900-e0a1-4cc7-9b26-7215d47518ae",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00072.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "c5edbf09-7f09-4c63-8e71-e12254130d20",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00073.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "9c6bbcb2-ea65-4cd7-af0c-e2c8cb05e1d7",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00074.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "c41e1517-89e0-486e-b59e-513bea421451",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00075.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "41485d33-15fd-4e3b-997f-bc04d989d21b",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00076.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "8cc0c858-cae4-4288-8630-0af1e5f6a946",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00077.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "8e2101e7-4600-4417-a62b-7f6e31fb47cb",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00078.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "6ae3962a-d771-4386-8c2c-bb2b3e9c8907",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00079.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "9a5b2382-592e-4384-99f9-ebf04a95467b",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00080.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "3aab0949-ff81-46ae-99fc-080abb2d8404",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00081.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "34e74dec-7bf0-4d1e-b430-276c4816cd26",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00082.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "2fec0568-f0b3-4c3c-8e64-7c4ded558190",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00083.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    },
+    {
+        "id": "91b97e3c-24d7-4cf6-9930-3842b86db35e",
+        "image": "训练内容/confirmation/Liquidate/True/liquidate_true_00084.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n什么是liquidate？图片中是一个有效的liquidation吗？在sbs序列中liquidate通常发生在什么地方？"
+            },
+            {
+                "from": "gpt",
+                "value": "Liquidate（流动性获取）指的是市场价格暂时突破关键支撑或阻力水平，触发大量止损订单，从而迅速吸收市场流动性。这种行为通常由大型机构或市场参与者故意推动价格至这些关键水平，以获取流动性。在价格突破后，市场可能会迅速反转，回到原有趋势，形成有效的入场信号。图片中是一个有效的流动性获取。在价格短暂突破前高/底点后没有发生结构反转（实体k线没有突破）价格迅速反转。在sbs序列中liquidate通常发生在点4，作为价格在点1突破后最终的入场确认。"
+            }
+        ]
+    }
+]

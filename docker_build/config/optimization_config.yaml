@@ -1,0 +1,72 @@
+# 模型优化配置
+
+# 量化配置
+quantization:
+  # 量化方法: 'dynamic' 或 'static'
+  method: 'dynamic'
+  # 静态量化配置
+  static:
+    # 量化配置后端
+    backend: 'fbgemm'
+    # 是否保留float32的权重
+    preserve_dtype: false
+    # 量化精度
+    dtype: 'qint8'
+
+# 剪枝配置
+pruning:
+  # 剪枝方法: 'unstructured' 或 'structured'
+  method: 'unstructured'
+  # 剪枝比例 (0-1)
+  amount: 0.3
+  # 需要剪枝的层
+  target_layers:
+    - 'conv1'
+    - 'conv2'
+    - 'fc1'
+    - 'fc2'
+  # 结构化剪枝维度 (仅用于structured方法)
+  structured:
+    dim: 0
+
+# 知识蒸馏配置
+distillation:
+  # 温度参数
+  temperature: 2.0
+  # 损失权重
+  alpha: 0.5
+  # 训练配置
+  training:
+    num_epochs: 10
+    batch_size: 32
+    learning_rate: 0.001
+    optimizer:
+      name: 'Adam'
+      params:
+        weight_decay: 0.0001
+    # 学习率调度器
+    scheduler:
+      name: 'StepLR'
+      params:
+        step_size: 5
+        gamma: 0.1
+  # 验证配置
+  validation:
+    batch_size: 64
+    frequency: 1  # 每多少个epoch验证一次
+
+# 通用配置
+general:
+  # 设备配置
+  device: 'cuda'
+  # 随机种子
+  seed: 42
+  # 保存路径
+  save_path: 'models/optimized/'
+  # 是否启用详细日志
+  verbose: true
+  # 性能评估指标
+  metrics:
+    - 'accuracy'
+    - 'latency'
+    - 'memory' 

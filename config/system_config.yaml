@@ -1,0 +1,147 @@
+# SBS系统配置
+
+# 系统配置
+system:
+  # 运行设备
+  device: 'cuda'
+  # 日志目录
+  log_dir: 'logs'
+  # 缓存目录
+  cache_dir: 'cache'
+  # 调试模式
+  debug: false
+
+# 模型配置
+model:
+  # 基础模型
+  base_model: 'llava-v1.6'
+  # 预训练权重路径
+  weights_path: 'models/llava-sbs'
+  # 是否使用量化
+  use_quantization: true
+  # 是否使用剪枝
+  use_pruning: true
+  # 是否使用知识蒸馏
+  use_distillation: false
+  # 视觉塔
+  vision_tower: 'openai/clip-vit-large-patch14-336'
+  # 图像大小
+  image_size: [336, 336]
+  # 最大长度
+  max_length: 4096
+  # 数据类型
+  dtype: 'float16'
+
+# 数据配置
+data:
+  # 图像大小
+  image_size: [336, 336]
+  # 数据目录
+  data_dir: 'data'
+  # 历史数据目录
+  historical_data_dir: 'data/historical'
+  # 实时数据目录
+  realtime_data_dir: 'data/realtime'
+  # 缓存设置
+  cache:
+    enabled: true
+    max_size: 1000
+    ttl: 3600
+
+# 交易提醒配置
+alerts:
+  # 配置文件路径
+  config_path: 'config/alerts_config.json'
+  # 置信度阈值
+  confidence_threshold: 0.8
+  # 保存目录
+  save_dir: 'alerts'
+  # 通知设置
+  notifications:
+    # 钉钉
+    dingtalk:
+      enabled: false
+      webhook: ''
+      secret: ''
+    # 企业微信
+    wecom:
+      enabled: false
+      webhook: ''
+    # Telegram
+    telegram:
+      enabled: false
+      bot_token: ''
+      chat_id: ''
+    # 邮件
+    email:
+      enabled: false
+      smtp_server: ''
+      smtp_port: 587
+      username: ''
+      password: ''
+      recipients: []
+  # 保存格式
+  save_format: 'json'
+
+# 监控配置
+monitoring:
+  # 实时监控
+  realtime:
+    enabled: true
+    interval: 60  # 扫描间隔（秒）
+    max_retries: 3
+    retry_delay: 5
+  # 性能监控
+  performance:
+    enabled: true
+    metrics:
+      - 'cpu_usage'
+      - 'memory_usage'
+      - 'gpu_usage'
+      - 'inference_time'
+    log_interval: 300  # 日志间隔（秒）
+  # 错误处理
+  error_handling:
+    max_errors: 10
+    error_window: 3600  # 错误窗口（秒）
+    alert_threshold: 5  # 告警阈值
+
+# 优化配置
+optimization:
+  # 量化配置
+  quantization:
+    method: 'dynamic'
+    dtype: 'qint8'
+  # 剪枝配置
+  pruning:
+    method: 'unstructured'
+    amount: 0.3
+    target_layers:
+      - 'conv1'
+      - 'conv2'
+      - 'fc1'
+  # 知识蒸馏配置
+  distillation:
+    temperature: 2.0
+    alpha: 0.5
+
+# 自监督学习配置
+self_supervised:
+  enabled: true
+  # 数据增强
+  augmentation:
+    enabled: true
+    methods:
+      - 'random_crop'
+      - 'random_flip'
+      - 'color_jitter'
+  # 预训练任务
+  pretext_tasks:
+    - 'rotation'
+    - 'jigsaw'
+  # 训练设置
+  training:
+    batch_size: 32
+    num_epochs: 100
+    learning_rate: 0.001
+    weight_decay: 0.0001 

@@ -1,0 +1,120 @@
+version: '3.8'
+
+services:
+  discord-bot:
+    build: 
+      context: .
+      args:
+        - HTTP_PROXY=
+        - HTTPS_PROXY=
+        - NO_PROXY=localhost,127.0.0.1
+    container_name: sbs-discord-bot
+    restart: unless-stopped
+    environment:
+      - TZ=Asia/Shanghai
+      - PYTHONPATH=/app
+      - DISCORD_BOT_TOKEN=${DISCORD_BOT_TOKEN}
+      - DISCORD_WEBHOOK_SIGNAL=${DISCORD_WEBHOOK_SIGNAL}
+      - DISCORD_WEBHOOK_MONITOR=${DISCORD_WEBHOOK_MONITOR}
+      - DISCORD_WEBHOOK_UPLOAD=${DISCORD_WEBHOOK_UPLOAD}
+    volumes:
+      - ./models:/app/models:ro
+      - ./logs:/app/logs
+      - ./temp:/app/temp
+      - ./data:/app/data
+      - ./screenshots:/app/screenshots
+      - ./.env:/app/.env:ro
+      - ./config:/app/config:ro
+      - ./src:/app/src:ro
+    deploy:
+      resources:
+        limits:
+          cpus: '12.0'
+          memory: 28G
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    ulimits:
+      nofile:
+        soft: 65536
+        hard: 65536
+
+  self-supervised:
+    build: 
+      context: .
+      args:
+        - HTTP_PROXY=
+        - HTTPS_PROXY=
+        - NO_PROXY=localhost,127.0.0.1
+    container_name: sbs-self-supervised
+    restart: unless-stopped
+    environment:
+      - TZ=Asia/Shanghai
+      - PYTHONPATH=/app
+      - MODEL_PATH=/app/models/llava-sbs
+      - TRAINING_DATA_DIR=/app/data/training
+      - VALIDATION_DATA_DIR=/app/data/validation
+      - SIGNAL_TRACKING_WINDOW=5  # 信号跟踪时间窗口（天）
+      - CONFIDENCE_THRESHOLD=0.8  # 置信度阈值
+      - REWARD_DECAY_RATE=0.95   # 奖励衰减率
+      - TRAINING_FREQUENCY=24    # 训练频率（小时）
+    volumes:
+      - ./models:/app/models
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./config:/app/config:ro
+      - ./.env:/app/.env:ro
+    ports:
+      - "8081:8081"
+    deploy:
+      resources:
+        limits:
+          cpus: '8.0'
+          memory: 16G
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    depends_on:
+      - discord-bot
+      - prometheus
+
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: sbs-prometheus
+    volumes:
+      - ./monitoring/prometheus:/etc/prometheus
+      - prometheus_data:/prometheus
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+      - '--web.console.libraries=/usr/share/prometheus/console_libraries'
+      - '--web.console.templates=/usr/share/prometheus/consoles'
+    ports:
+      - "9090:9090"
+    restart: unless-stopped
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: sbs-grafana
+    volumes:
+      - ./monitoring/grafana:/etc/grafana/provisioning
+      - grafana_data:/var/lib/grafana
+    environment:
+      - GF_SECURITY_ADMIN_USER=${GRAFANA_ADMIN_USER:-admin}
+      - GF_SECURITY_ADMIN_PASSWORD=${GRAFANA_ADMIN_PASSWORD:-admin}
+      - GF_USERS_ALLOW_SIGN_UP=false
+    ports:
+      - "3000:3000"
+    restart: unless-stopped
+    depends_on:
+      - prometheus
+
+volumes:
+  prometheus_data:
+  grafana_data:
+  training_data:
+    driver: local 

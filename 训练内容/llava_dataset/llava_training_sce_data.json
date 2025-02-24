@@ -1,0 +1,940 @@
+[
+    {
+        "id": "9fbada96-5c55-4635-a729-aa8df89a1c8d",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00000.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "c1610518-b995-4766-97bb-b1a9c968c9ed",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00001.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "db378d45-7657-403d-9bf4-5aba51e1ca8a",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00002.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "29f06a11-7e27-4fe7-8391-1fa1e15c11cd",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00003.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "0977e083-9a03-4564-a1f9-e73f0f142efe",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00004.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "28a1d966-a368-4710-bc89-7c276948af84",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00005.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "1fb069c3-1372-4c3b-ae60-0d59050a9013",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00006.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "9922432f-7d6b-4c47-a8d2-cbdc2b2c2a7c",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00007.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "23f5f065-31c4-40ab-87d1-d5ec4fbd6dc1",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00008.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "746e8497-a15e-4f6a-a171-8feda016e1c5",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00009.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "71afbda1-ca21-4d59-a193-413d40edae23",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00010.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "cda24ce4-3c7f-4844-989f-89a31e508b67",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00011.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "840c828d-d6b3-41e1-9f2b-ba509426dbf3",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00012.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "8abfb20f-c273-4eac-a509-b5e344d0ed8e",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00013.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "2c3376d4-1a28-4c99-b68c-24757d7283e5",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00014.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "d32dce0f-6965-458b-b4be-5d6c1b6af06c",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00015.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "c4abc798-cc29-405f-b2e2-6c005039db68",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00016.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "fa80987a-05d3-44f2-802e-3ff1d032bc83",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00017.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "cf5d59ff-288b-4f3b-ad1d-2d82e830d357",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00018.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "9991925a-2f3f-4c83-8591-6a2ec6b794bd",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00019.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "a41920b6-3b97-4e6d-99a7-7f2c8426eaff",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00020.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "9e31e007-f49a-4df3-8683-6e5e85a15a55",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00021.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "559c68db-118b-4d56-bb78-24e4b95dea31",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00022.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "0282f915-31c5-4c1e-94f2-2a02bd1e4578",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00023.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "e092a717-f795-4adb-b3ad-90ac77444464",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00024.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "f6970ae4-bc82-4179-93f2-ac014e99b6fa",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00025.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "31374f63-e3dc-48d7-8a81-6b474660665d",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00026.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "3c4e111d-4ad1-43e0-abfd-d1e7f8daa88b",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00027.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "fb255db4-d7f4-4f6e-a8be-6ecff5eb0a6a",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00028.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "b3fb4ada-f7ed-4339-8609-0103cda2d8df",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00029.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "e8061eef-b493-4a9f-9e9c-230efa942c66",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00030.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "2eb29c74-bd02-42ac-958b-af9890e1cb78",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00031.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "5d71c993-e06a-4f41-9fb8-9cc0ecf9ed40",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00032.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "5020c075-d379-41e8-ab07-6968d9b0f1e5",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00033.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "98364aa8-fd03-4cb5-ab43-54ab3955dda1",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00034.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "b83ef3ea-84fd-47d3-ba00-47c6966f29ee",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00035.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "a4d82376-406b-47f8-9794-efeb57efdad3",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00036.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "8fa4d7f6-3a46-4597-a80e-ebc928476c51",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00037.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "7cd89ee5-0e19-4285-9795-43c9c59b802e",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00038.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "66ef16da-558b-4e94-9ee1-2f7da8b0d150",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00039.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "707b88f1-bba0-468e-88c7-dc36441837df",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00040.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "13b1b4c5-e085-4fa0-9850-36e1eccceb41",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00041.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "fca44e76-4632-4c0d-bdc4-ae675435c1c7",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00042.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "446c5a22-5f9d-4c2e-a001-5f9c7794e202",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00043.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "57fad327-beb6-4c3a-9617-4ce32d3d98ce",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00044.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "bc141bef-1589-4fa2-bce8-1d12935e414e",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00045.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "63531374-54e2-456c-8b99-71df22828cd0",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00046.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "839785ec-999e-46b8-ad89-e1f2193f6b42",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00047.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "22fe1811-e416-4d67-a3bf-47d548b1f32f",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00048.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "bf6e9446-4c25-4f3d-a0fb-6752a21c0fff",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00049.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "6f27b812-117b-4664-a78e-7e500c5d6d16",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00050.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "8004b816-2d90-42c2-a37e-e4c9f8147757",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00051.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "1dcb4f7f-9483-4294-bbf5-e895baa3feb5",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00052.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "18a125f1-5a22-429d-8b63-90a1562dbee5",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00053.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "fb827a89-5580-4329-a0ed-80205d2c7994",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00054.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "f0b87293-4a0d-41ca-bbf7-5c8ef4250ffa",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00055.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "49f05b68-5d59-4008-8a05-decd607014b8",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00056.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "09e9cc90-9c75-441f-9e98-67ce32286579",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00057.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "dff05d90-d260-4502-9b3b-023c7b6fa163",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00058.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "975456f2-c9a2-4ee6-821a-668a019765cf",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00059.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "8240ccaf-5ffe-4ce1-ac28-5f883230571b",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00060.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "cb13e808-7f86-4666-ba10-db7db20b52aa",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00061.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "e5fd58d4-34f2-45cd-a69f-fb0b7df64d99",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00062.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "f637f73e-3160-4c38-8935-58a4c54dff0e",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00063.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "46019a5a-e776-4c3b-8198-40dd7b9effd7",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00064.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "746379f9-fa19-4405-b04f-57e3f02956a9",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00065.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    },
+    {
+        "id": "0717d8f3-cc82-4c8a-b75b-d6faa24c8cfd",
+        "image": "训练内容/confirmation/SCE/True/SCE_true_00066.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n图片里是一个有效的SCE吗？SCE是什么"
+            },
+            {
+                "from": "gpt",
+                "value": "是的，这是一个有效的SCE。在图表中，SCE （single candle entry）表现为一根蜡烛收盘后高点低点均高于和低于前一根不同颜色的蜡烛，后续第一根蜡烛为同样颜色，这是序列入场信号，通常发生在点4。这一信号表明市场已经吸收了足够的流动性，当前结构得到了确认，价格有望延续当前趋势，从而构成有效的入场信号。"
+            }
+        ]
+    }
+]

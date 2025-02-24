@@ -1,0 +1,46 @@
+version: '3.8'
+
+services:
+  discord-bot:
+    build: .
+    container_name: sbs-discord-bot
+    restart: unless-stopped
+    environment:
+      - TZ=Asia/Shanghai
+      - PYTHONPATH=/app
+      - CUDA_VISIBLE_DEVICES=0
+      # 代理设置
+      - http_proxy=http://host.docker.internal:7897
+      - https_proxy=http://host.docker.internal:7897
+      - all_proxy=socks5://host.docker.internal:7897
+      # 功能开关
+      - ENABLE_SELF_SUPERVISED=true
+      - ENABLE_OPTIMIZATION=true
+      - ENABLE_TESTING=true
+      # 训练配置
+      - TRAINING_INTERVAL=3600
+      - OPTIMIZATION_INTERVAL=7200
+      - TEST_INTERVAL=1800
+    volumes:
+      - ./models:/app/models
+      - ./logs:/app/logs
+      - ./temp:/app/temp
+      - ./data:/app/data
+      - ./screenshots:/app/screenshots
+      - ./.env:/app/.env
+      - ./config:/app/config
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    networks:
+      - bot-network
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+networks:
+  bot-network:
+    driver: bridge 

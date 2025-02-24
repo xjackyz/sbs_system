@@ -1,0 +1,21 @@
+{
+    "system": {
+        "device": "cuda",
+        "num_workers": 4,
+        "debug": false
+    },
+    "model": {
+        "base_model": "models/llava-sbs",
+        "vision_model": "openai/clip-vit-large-patch14-336",
+        "max_length": 4096,
+        "batch_size": 4
+    },
+    "discord": {
+        "token": "",
+        "client_id": "",
+        "signal_webhook": "",
+        "monitor_webhook": "",
+        "upload_webhook": "",
+        "avatar_url": ""
+    }
+} 

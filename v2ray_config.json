@@ -1,0 +1,27 @@
+{
+  "inbounds": [
+    {
+      "port": 1080,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "ss.hkglink.xyz",
+            "port": 11000,
+            "password": "e5d88c8d-4a3e-4fdb-a00e-473a270c77c2",
+            "sni": "tr.yuanul.com"
+          }
+        ]
+      }
+    }
+  ]
+} 

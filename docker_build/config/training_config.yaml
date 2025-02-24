@@ -1,0 +1,86 @@
+# SBS分析器训练配置
+
+# 模型配置
+model:
+  # 基础模型选择 ('resnet50', 'resnet34', 'vgg16', 'vgg19')
+  base_model: 'resnet50'
+  # 是否使用预训练权重
+  pretrained: true
+  # 是否冻结主干网络
+  freeze_backbone: true
+
+# 数据配置
+data:
+  # 图像大小
+  image_size: [224, 224]
+  # 训练数据目录
+  train_dir: 'data/train'
+  # 验证数据目录
+  val_dir: 'data/val'
+  # 测试数据目录
+  test_dir: 'data/test'
+  # 数据增强
+  augmentation:
+    horizontal_flip: true
+    vertical_flip: false
+    random_rotation: 10
+    random_brightness: 0.1
+    random_contrast: 0.1
+
+# 训练配置
+training:
+  # 设备
+  device: 'cuda'
+  # 随机种子
+  seed: 42
+  # 批次大小
+  batch_size: 32
+  # 训练轮数
+  num_epochs: 50
+  # 学习率
+  learning_rate: 0.001
+  # 权重衰减
+  weight_decay: 0.0001
+  # 数据加载器线程数
+  num_workers: 4
+  # 是否使用学习率调度器
+  use_scheduler: true
+  # 提前停止轮数
+  early_stopping: 10
+  # 解冻epoch
+  unfreeze_epoch: 10
+  # 解冻层数
+  unfreeze_layers: 3
+  # 检查点目录
+  checkpoint_dir: 'checkpoints'
+  # 日志目录
+  log_dir: 'logs'
+
+# 验证配置
+validation:
+  # 验证频率（每多少个epoch验证一次）
+  frequency: 1
+  # 验证批次大小
+  batch_size: 64
+
+# 测试配置
+testing:
+  # 测试批次大小
+  batch_size: 32
+  # 是否保存预测结果
+  save_predictions: true
+  # 预测结果保存路径
+  predictions_path: 'results/predictions.csv'
+
+# 可视化配置
+visualization:
+  # 是否启用TensorBoard
+  use_tensorboard: true
+  # TensorBoard日志目录
+  tensorboard_dir: 'runs'
+  # 是否保存混淆矩阵
+  save_confusion_matrix: true
+  # 是否保存错误预测样本
+  save_misclassified: true
+  # 可视化结果保存目录
+  output_dir: 'visualization' 

@@ -1,0 +1,53 @@
+# Discord和异步
+discord.py==2.3.2
+aiohttp==3.9.1
+asyncio==3.4.3
+
+# 机器学习和深度学习
+torch==2.1.2
+torchvision==0.16.2
+transformers==4.36.2
+# llava @ git+https://github.com/haotian-liu/LLaVA.git
+onnx==1.15.0
+onnxruntime-gpu==1.20.1
+tensorboard==2.15.1
+
+# 图像处理
+Pillow==10.2.0
+opencv-python==4.8.1.78
+scikit-image==0.22.0
+
+# 数据处理和分析
+numpy==1.24.3
+pandas==2.1.4
+scipy==1.11.4
+scikit-learn==1.4.0
+
+# Web和API
+fastapi==0.109.0
+uvicorn==0.27.0
+requests==2.31.0
+
+# 数据库
+sqlalchemy==2.0.25
+psycopg2-binary==2.9.9
+alembic==1.13.1
+
+# 监控和日志
+prometheus-client==0.19.0
+python-json-logger==2.0.7
+psutil==5.9.7
+
+# 配置和环境
+python-dotenv==1.0.0
+pyyaml==6.0.1
+
+# 性能优化
+cachetools==5.3.2
+numba==0.58.1
+
+# 开发工具
+pytest==7.4.4
+black==23.12.1
+isort==5.13.2
+mypy==1.8.0 
